@@ -1,1 +1,1 @@
-Stupid readme for Anzor)
+Blog app to study django
